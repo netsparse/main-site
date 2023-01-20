@@ -2,15 +2,15 @@
 layout: post
 author: Angel
 date: 2023-01-16
-title: Remove Proxmox Subscription Notice
+title: Quickly Remove Proxmox Subscription Notice
 description:
-tag: ["homelab", "dell"] 
+tag: ["homelab"] 
 category: homelab
 excerpt_separator: <!--more-->
-published: false
+published: true
 ---
 
-Every once in a while, I run an update on my proxmox server and reboot. <!--more--> Usually after any major update or reboot, the subscription notice banner reappears on the login screen, which can be a bit distracting.
+Every once in a while, I run an update on my proxmox server and reboot. <!--more--> Usually after any major update or reboot, the subscription notice banner reappears on the login screen, which can be a bit distracting. Tested on Proxmox 7.2.
 
 ## Quick
 
