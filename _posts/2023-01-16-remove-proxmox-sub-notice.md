@@ -14,7 +14,7 @@ Every once in a while, I run an update on my proxmox server and reboot. <!--more
 
 ## Quick
 
-To get rid of the message, open a shell under the root user and type in the snipped below.
+To get rid of the message, open a shell under the root user and type in the snippet below.
 
 ```
 sed -Ezi.bak "s/(Ext.Msg.show\(\{\s+title: gettext\('No valid sub)/void\(\{ \/\/\1/g" /usr/share/javascript/proxmox-widget-toolkit/proxmoxlib.js && systemctl restart pveproxy.service
