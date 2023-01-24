@@ -5,7 +5,7 @@ date: 2023-01-23
 title: Quick iperf test
 description: Today i'll show you how to do a quick iperf test.
 tag: ["homelab", "reference", "networking"] 
-category: networking
+category: blog
 excerpt_separator: <!--more-->
 published: true
 ---

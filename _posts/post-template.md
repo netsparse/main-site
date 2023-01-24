@@ -5,7 +5,7 @@ date: 2023-
 title: 
 description:
 tag: [" "] 
-category:
+category: blog
 excerpt_separator: <!--more-->
 published: false
 ---

@@ -5,7 +5,7 @@ date: 2023-01-23
 title: Quickly Remove Proxmox Subscription Notice
 description:
 tag: ["homelab"] 
-category: homelab
+category: blog
 excerpt_separator: <!--more-->
 published: true
 ---
