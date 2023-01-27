@@ -4,7 +4,7 @@ logo: #/assets/img/ns-1.png
 description: Network · Systems Engineer - in the making
 show_downloads: false
 google_analytics: G-KFX3BQRRH0
-color-scheme: dark
+color-scheme: auto
 favicon: true
 plugins:
   - jekyll-sitemap
