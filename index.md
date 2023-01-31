@@ -12,7 +12,7 @@ When I became older, and got my first personal laptop, a whole new world was int
 #### Background
 I’ve worked in the IT industry since 2018, in positions ranging from Geek Squad Agent to Network Specialist for a large ISP.
 
-In May 2022, I completed my Associates of Applied Sciences (AAS) in LAN Systems/Network Administration from Austin Community College. 
+In May 2022, I completed my Associates of Applied Science (AAS) in LAN Systems/Network Administration from Austin Community College. 
 
 Currently, I am pursuing the Cisco CCNA, along with Security+ and Linux+ certifications, with the goal of completing the CCNA by the end of 2023, and the other two by mid-2024.
 

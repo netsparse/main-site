@@ -19,15 +19,15 @@ Homelab #1 and Homelab #2 have been projects I've been working on before startin
 Both labs are meant to be a learning platform for me in learning new technologies, I've been able to build them utilizing some best practices (along with likely not some best ones either), but keeping in mind that at the end of the day, these labs are for learning, testing, and development.
 
 ## Homelab #1 ___"H1DC"___ Logical Layout
-![diagram](https://d1xsprd8j0du0z.cloudfront.net/diagrams/h1dc-lab-diagram-2023-v2.svg)
+![diagram](https://d287cykochbccj.cloudfront.net/diagrams/h1dc-lab-diagram-2023-v2.svg)
 
 ## Physical Layout
-![img](https://d1xsprd8j0du0z.cloudfront.net/pictures/h1dc/IMG_20210219_141819.jpg)
-![img](https://d1xsprd8j0du0z.cloudfront.net/pictures/h1dc/IMG_20201221_183413.jpg)
+![img](https://d287cykochbccj.cloudfront.net/pictures/h1dc/IMG_20210219_141819.jpg)
+![img](https://d287cykochbccj.cloudfront.net/pictures/h1dc/IMG_20201221_183413.jpg)
 
 The first home lab titled "H1DC" ("DC" short for Datacenter), was actually my first lab, and is now currently hosted at my mother's residence, which I manage remotely if needed.
 
-I've wanted to keep things a bit simple when it came to the design of H1DC, although the lab has gone through many changes over the years, the diagram above illustrates the most recent version of how the network is laid out, and the services currently hosted there.
+Although the lab has gone through many changes over the years, the diagram above illustrates the most recent version of how the network is laid out, and the services currently hosted there.
 
 As you may see, I've tried to keep things a bit simple, as compared to Homelab #2, as H1DC is no longer my primary lab, therefore I only host a few docker containers there.
 
@@ -67,10 +67,10 @@ Deployed using [Docker](https://www.docker.com/):
 - [Filebrowser](https://filebrowser.org/)
 
 ## Homelab #2 ___"H2DC"___ Logical Layout
-![diagram](https://d1xsprd8j0du0z.cloudfront.net/diagrams/h2dc-lab-diagram-2023-v2.svg)
+![diagram](https://d287cykochbccj.cloudfront.net/diagrams/h2dc-lab-diagram-2023-v2.svg)
 
 ## Physical Layout
-![img](https://d1xsprd8j0du0z.cloudfront.net/pictures/h2dc/IMG_20221107_164928.jpg)
+![img](https://d287cykochbccj.cloudfront.net/pictures/h2dc/IMG_20221107_164928.jpg)
 
 The second lab, titled "H2DC", is my current lab at my current residence and has been in development since around 2020.
 
@@ -116,14 +116,14 @@ Deployed using [Docker](https://www.docker.com/):
 
 The physical layout in my opinion is not very sophisticated, all the lab devices are actually housed in my TV stand in the living room as you can see below:
 
-![img](https://d1xsprd8j0du0z.cloudfront.net/pictures/h2dc/IMG_20221105_143007.jpg)
-![img](https://d1xsprd8j0du0z.cloudfront.net/pictures/h2dc/IMG_20221105_143110.jpg)
+![img](https://d287cykochbccj.cloudfront.net/pictures/h2dc/IMG_20221105_143007.jpg)
+![img](https://d287cykochbccj.cloudfront.net/pictures/h2dc/IMG_20221105_143110.jpg)
 
 The devices are not entirely enclosed as there is an inlet in the back of the TV stand, which allows some airflow to and from the devices.
 
 You can also see where my UPS is located:
 
-![img](https://d1xsprd8j0du0z.cloudfront.net/pictures/h2dc/IMG_20221105_143035.jpg)
+![img](https://d287cykochbccj.cloudfront.net/pictures/h2dc/IMG_20221105_143035.jpg)
 
 I have 2 of these APC UPS devices, one in the living room and the other in my office/bedroom. 
 
@@ -131,7 +131,7 @@ I have 2 of these APC UPS devices, one in the living room and the other in my of
 
 Both UPS devices are 1000VA/600W and can provide the 37W that the H2DC lab utilizes for about 1hr and 30min in the event of a power outage.
 
-![img](https://d1xsprd8j0du0z.cloudfront.net/pictures/h2dc/IMG_20221105_143048.jpg)
+![img](https://d287cykochbccj.cloudfront.net/pictures/h2dc/IMG_20221105_143048.jpg)
 
 ## In Summary
 The home lab projects have been an invaluable learning experience, and I hope to continue my learning through the use of these labs, they have definitely been a great learning experience and hobby.
