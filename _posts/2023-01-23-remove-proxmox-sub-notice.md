@@ -78,4 +78,6 @@ mv proxmoxlib.js.bak proxmoxlib.js
 apt-get install --reinstall proxmox-widget-toolkit
 ```
 
+This guide is based from John McLaren's blog over at [https://johnscs.com](https://johnscs.com/remove-proxmox51-subscription-notice/).
+
 [ < back ](/blog)

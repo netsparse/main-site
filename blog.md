@@ -19,4 +19,4 @@ A collection of my thoughts and posts. Feel free to browse around.
 </ul>
 
 
-[ < home](./)
+[ < home](/)

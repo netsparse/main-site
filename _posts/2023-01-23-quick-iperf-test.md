@@ -2,17 +2,21 @@
 layout: post
 author: Angel
 date: 2023-01-23
-title: Quick iperf test
+title: Quick iPerf test
 description: Today i'll show you how to do a quick iperf test.
 tag: ["homelab", "reference", "networking"] 
 category: blog
 excerpt_separator: <!--more-->
 published: true
 ---
-Just a quick write up showing how to setup a quick iperf test. <!--more--> 
+Just a quick write up showing how to setup a quick iPerf test between 2 hosts. <!--more--> 
 
 These come in handy when you need them.
 
+### Installation
+The following guide is written for users utilizing Linux, and assumes you have installed iPerf onto your local system.
+
+For Windows or Mac users, you can find the latest pre-compiled binaries on [iPerf's official website](https://iperf.fr/iperf-download.php).
 
 ### Server Setup
 
@@ -56,6 +60,12 @@ Our results will be shown when test is completed, usually after a few seconds (d
 ### Additional Reference
 
 For any additional commands or reference, check out:
+
+Web:
+
+[https://iperf.fr/iperf-doc.php](https://iperf.fr/iperf-doc.php)
+
+CLI:
 
 ```
 iperf --help
