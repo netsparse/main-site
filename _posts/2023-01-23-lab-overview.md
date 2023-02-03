@@ -72,7 +72,7 @@ Deployed using [Docker](https://www.docker.com/):
 ## Physical Layout
 ![img](https://d287cykochbccj.cloudfront.net/pictures/h2dc/IMG_20221107_164928.jpg)
 
-The second lab, titled "H2DC", is my current lab at my current residence and has been in development since around 2020.
+The second lab, titled "H2DC", is my current lab at my current residence and has been in development since 2020.
 
 ## Devices
 2 Servers
