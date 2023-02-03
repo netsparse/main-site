@@ -15,7 +15,7 @@ An overview of my past, current, and future projects.
 - Deployment automation with Ansible
 
 ### Current
-- Improvements in Backup & Recovery Strategy
+- Improvements in Backup & Recovery Strategies
 - Local Services Performance fine-tuning
 - [Home Lab Documentation](/projects/2023/01/23/lab-overview.html)
 
