@@ -44,7 +44,7 @@ As you may see, I've tried to keep things a bit simple, as compared to Homelab #
 - Reolink
 
 Power Supplies
-- APC Back-UPS (BE425M) 425VA/255W (not pictured)
+- APC Back-UPS (BE425M) 425VA/255W
 
 ## Services
 Local:
