@@ -3,7 +3,7 @@ layout: default
 ---
 
 ## About
-Originally from West Texas, I've had a huge interest in computers, the internet, building things, and learning, since I was a kid. 
+I've had a huge interest in computers, the internet, building things, and learning, since I was a kid. 
 
 Having grown up with limited access to the web, I was always astounded by computers, what they could do, and also what we could do with them. 
 
