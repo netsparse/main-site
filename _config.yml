@@ -11,7 +11,6 @@ plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
   - jemoji
-  - jekyll-sitemap
   - jekyll-feed
 
 # You can find fonts from https://iconify.design or https://fontawesome.com. Below is just an example illustrating how to use custom icons
