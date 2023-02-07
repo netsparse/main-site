@@ -3,7 +3,7 @@ layout: default
 title: Blog
 ---
 ## Blog 
-A collection of my thoughts and posts. Feel free to browse around.
+A collection of some articles, guides, thoughts, and ideas. Feel free to browse around.
 
 ## Latest
 
