@@ -21,6 +21,7 @@ An overview of my past, current, and future projects.
 
 
 ### Completed
+- [Reference Blog launched](/blog.html) - Jan 2023
 - [Website launched](/blog/2023/01/22/journey.html) - Jan 2023
 
 ---
