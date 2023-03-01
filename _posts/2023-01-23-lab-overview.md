@@ -22,8 +22,8 @@ Both labs are meant to be a learning platform for me in learning new technologie
 ![diagram](https://d287cykochbccj.cloudfront.net/diagrams/h1dc-lab-diagram-2023-v2.svg)
 
 ## Physical Layout
-![img](https://d287cykochbccj.cloudfront.net/pictures/h1dc/IMG_20210219_141819.jpg)
-![img](https://d287cykochbccj.cloudfront.net/pictures/h1dc/IMG_20201221_183413.jpg)
+![img](https://d287cykochbccj.cloudfront.net/pictures/h1dc/IMG_20210219_141819.webp)
+![img](https://d287cykochbccj.cloudfront.net/pictures/h1dc/IMG_20201221_183413.webp)
 
 The first home lab titled "H1DC" ("DC" short for Datacenter), was actually my first lab, and is now currently hosted at my mother's residence, which I manage remotely if needed.
 
@@ -70,7 +70,7 @@ Deployed using [Docker](https://www.docker.com/):
 ![diagram](https://d287cykochbccj.cloudfront.net/diagrams/h2dc-lab-diagram-2023-v2.svg)
 
 ## Physical Layout
-![img](https://d287cykochbccj.cloudfront.net/pictures/h2dc/IMG_20221107_164928.jpg)
+![img](https://d287cykochbccj.cloudfront.net/pictures/h2dc/IMG_20221107_164928.webp)
 
 The second lab, titled "H2DC", is my current lab at my current residence and has been in development since 2020.
 
@@ -116,22 +116,22 @@ Deployed using [Docker](https://www.docker.com/):
 
 The physical layout in my opinion is not very sophisticated, all the lab devices are actually housed in my TV stand in the living room as you can see below:
 
-![img](https://d287cykochbccj.cloudfront.net/pictures/h2dc/IMG_20221105_143007.jpg)
-![img](https://d287cykochbccj.cloudfront.net/pictures/h2dc/IMG_20221105_143110.jpg)
+![img](https://d287cykochbccj.cloudfront.net/pictures/h2dc/IMG_20221105_143007.webp)
+![img](https://d287cykochbccj.cloudfront.net/pictures/h2dc/IMG_20221105_143110.webp)
 
 The devices are not entirely enclosed as there is an inlet in the back of the TV stand, which allows some airflow to and from the devices.
 
 You can also see where my UPS is located:
 
-![img](https://d287cykochbccj.cloudfront.net/pictures/h2dc/IMG_20221105_143035.jpg)
+![img](https://d287cykochbccj.cloudfront.net/pictures/h2dc/IMG_20221105_143035.webp)
 
 I have 2 of these APC UPS devices, one in the living room and the other in my office/bedroom. 
 
 ## Power Utilization
 
-Both UPS devices are 1000VA/600W and can provide the 37W that the H2DC lab utilizes for about 1hr and 30min in the event of a power outage.
+Both UPS devices are 1000VA/600W, the one in the living room can run for about 1hr 30min at 37-40W in the event of a power outage.
 
-![img](https://d287cykochbccj.cloudfront.net/pictures/h2dc/IMG_20221105_143048.jpg)
+![img](https://d287cykochbccj.cloudfront.net/pictures/h2dc/IMG_20221105_143048.webp)
 
 ## In Summary
 The home lab projects have been an invaluable learning experience, and I hope to continue my learning through the use of these labs, they have definitely been a great learning experience and hobby.

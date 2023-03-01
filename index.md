@@ -29,7 +29,7 @@ I started this site to document my journey, and share what I've learned througho
 Normally, I'm accustomed to learning about networks and Linux, I've recently taken a dive into the world of web development, hosting websites and web apps. I've had a bit of experience using things like Docker to host services in my home lab, so this serves me as a potential learning opportunity to expand my existing skillsets and possibly be of help for people on that same journey.
 
 #### Hobbies
-When I am not spinning up new virtual machines, fixing up my home lab, writing a blog post, or performing some kind of troubleshooting, you can usually find me hiking around the many trails in Austin, along with occasional kayaking at Town Lake, cruising in or around the city, and jamming out to some epic tunes.
+When I am not spinning up new virtual machines, fixing up my home lab, writing a blog post, or performing some kind of troubleshooting, you can usually find me outdoors hiking around the many trails in Austin, along with occasional kayaking, cruising in or around the city, and jamming out to some epic tunes.
 
 Other hobbies of mine include playing the piano, guitar and ocassionally some drums, along with a multitude of other things.
 

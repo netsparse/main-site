@@ -50,8 +50,6 @@ The projects below are a general overview of some of the major projects I was ab
 ---
 
 ## 2019
-- APC SmartUPS security hardening @ Work
-- Main Office network upgrade @ Work
 - H1DC Lab Deployed
 - Homelab begins
 

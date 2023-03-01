@@ -299,9 +299,34 @@ PublicKey = <public-key-here>
 AllowedIPs = 0.0.0.0/0
 Endpoint = <your-public-ip-or-dynamic-dns-hostname>:51820
 ```
+Once the `.conf` file is created, you can import that into the peer/device of your choice.
 
-## Step  7. Import to Peer/Client Device
-Once the above configuration is made, you can easily save the config by [running a backup](https://help.ui.com/hc/en-us/articles/360002535514-EdgeRouter-Backup-and-Restore-Configuration#2) from the GUI.
+To bring up your tunnel, you can use the `wg-quick` command.
+
+```
+wg-quick up client01.conf
+```
+
+Run `wg show` on your peer to verify you are connected to the endpoint.
+
+```
+user@PC$ wg show
+
+interface: client01
+  public key: <private-key>
+  private key: (hidden)
+  listening port: 51820
+  fwmark: 0xca6c
+
+peer: <peer-key>
+  endpoint: xx.xx.xx.xx:51820
+  allowed ips: 0.0.0.0/0
+  latest handshake: 11 seconds ago
+  transfer: 3.11 MiB received, 6.92 MiB sent
+```
+
+## Step  7. Save WireGuard Keys and Configuration Files
+Once the above configuration is made, you can easily save the config by [running a backup](https://help.ui.com/hc/en-us/articles/360002535514-EdgeRouter-Backup-and-Restore-Configuration#2) from the Edgerouter's GUI.
 
 
 1. Navigate to the **System** tab in the bottom-left of the GUI to download the backup configuration archive.
@@ -313,7 +338,8 @@ Once the above configuration is made, you can easily save the config by [running
 
 3. The EdgeRouter will prompt you to save the archive on your computer.
 
-This can then be imported to the peer/device of your choice.
+You can then extract this file on your local machine, and in the `/config` directory, you'll find the wireguard public and private keys you generated earlier.
+
 
 ## Quick Script
 **Warning, the following script is not guaranteed to work, you may need to modify it according to your specific platform/version. Use at your own risk.**
