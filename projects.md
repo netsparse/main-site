@@ -10,9 +10,8 @@ An overview of my past, current, and future projects.
 # 2023
 
 ### Future
-- Orchestration with Kubernetes
-- Implementation of Infrastructure as Code (IaC) with Terraform
-- Deployment automation with Ansible
+- Full Lab Orchestration with Kubernetes
+- Implementation of Infrastructure as Code (IaC) with Terraform and Ansible
 
 ### Current
 - Improvements in Backup & Recovery Strategies
